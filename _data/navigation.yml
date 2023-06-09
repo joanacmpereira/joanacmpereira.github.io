@@ -3,7 +3,7 @@ main:
     url: /about/
   - title: "Consultas On-line"
     url: /about/
-  - title: "Posts"
-    url: /posts/
+  #- title: "Posts"
+  #  url: /posts/
   - title: "Contacta-me"
     url: /about/
