@@ -1,6 +1,6 @@
 ---
 permalink: /appointment/
-title: "Appointment"
+title: "Marcação"
 ---
 
 As consultas de Psiquiatria em formato on-line são uma forma prática e acessível de manter o seguimento clínico. Este formato de seguimento apresenta claras vantagens para utentes portugueses emigrantes, que pelo conforto da língua materna e dos laços culturais, se sintam mais confortáveis a serem seguidos em Portugal (sem o inconveniente da deslocação física).
@@ -9,7 +9,7 @@ Na 1ª consulta será feita uma extensiva recolha dos dados do quadro atual e da
 
 As consultas subsequentes têm como objetivo avaliar a evolução do quadro que motivou a vinda à consulta, ajustando as estratégias terapêuticas sempre que for necessário. 
 
-As consultas serão feitas pela plataforma "GoogleMeets", sendo o link enviado por e-mail um dia antes da consulta. 
+As consultas serão feitas pela plataforma "GoogleMeets", sendo o link enviado por e-mail no momento da inscrição. 
 
 É de notar que no espaço entre consultas, todos os utentes terão acesso a uma via de comunicação direta de forma a que as suas necessidades e dúvidas sejam rapidamente esclarecidas. 
 
