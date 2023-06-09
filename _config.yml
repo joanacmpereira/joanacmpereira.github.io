@@ -61,27 +61,26 @@ author:
   name   : "Joana Pereira"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Médica Psiquiatra, investigadora e autora do livro Raciocínio Clínico em Psiquiatria"
-  bio    : "Psychiatrist, researcher and published author"
  
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://joanacmpereira.github.io/portfolio/"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://joanacmpereira.github.io/portfolio/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/joanappsiqui"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/joanappsiqui"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 defaults:
   # _posts
