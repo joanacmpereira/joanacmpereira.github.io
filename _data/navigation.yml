@@ -1,6 +1,6 @@
 main:
   - title: "Sobre mim"
-    url: /about/
+    url: /
   - title: "Consultas On-line"
     url: /appointment/
   #- title: "Posts"
