@@ -1,8 +1,13 @@
 ---
 permalink: /contact/
-title: "Contact"
+title: "Contacto"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Caso pretenda esclarecer qualquer dúvida sobre o seguimento on-line, pode utilizar o seguinte formulário. Para consultas em FORMATO URGENTE ou noutras datas não disponiveis poderá de igual forma utilizar o mesmo. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Caso já esteja a ser por mim seguido, o formulário poderá ser de igual forma utilizado para:
+- Pedido de receituário
+- Esclarecimento de eventuais dúvidas que surgirem
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSehIxykn0vWdKFHI5sYtBL-AQ3W0ioSyKVka2sT540yoGmyOw/viewform?embedded=true" width="640" height="689" frameborder="0" marginheight="0" marginwidth="0">A carregar…</iframe>
+
