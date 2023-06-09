@@ -2,8 +2,8 @@ main:
   - title: "Sobre mim"
     url: /about/
   - title: "Consultas On-line"
-    url: /about/
+    url: /appointment/
   #- title: "Posts"
   #  url: /posts/
   - title: "Contacta-me"
-    url: /about/
+    url: /contact/
