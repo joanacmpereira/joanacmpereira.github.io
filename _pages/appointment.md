@@ -3,6 +3,17 @@ permalink: /appointment/
 title: "Appointment"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+As consultas de Psiquiatria em formato on-line são uma forma prática e acessível de manter o seguimento clínico. Este formato de seguimento apresenta claras vantagens para utentes portugueses emigrantes, que pelo conforto da língua materna e dos laços culturais, se sintam mais confortáveis a serem seguidos em Portugal (sem o inconveniente da deslocação física).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Na 1ª consulta será feita uma extensiva recolha dos dados do quadro atual e da história pregressa, sendo feito o diagnóstico e a abordagem terapêutica mais adequada. A escolha do tratamento terá sempre em conta as preferências do utente e o perfil de efeitos secundários e comorbilidades do mesmo. 
+
+As consultas subsequentes têm como objetivo avaliar a evolução do quadro que motivou a vinda à consulta, ajustando as estratégias terapêuticas sempre que for necessário. 
+
+As consultas serão feitas pela plataforma "GoogleMeets", sendo o link enviado por e-mail um dia antes da consulta. 
+
+É de notar que no espaço entre consultas, todos os utentes terão acesso a uma via de comunicação direta de forma a que as suas necessidades e dúvidas sejam rapidamente esclarecidas. 
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/joanacristinampereira/45min" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
