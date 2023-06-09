@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Sobre mim"
     url: /posts/
-  - title: "Categories"
+  - title: "Consultas On-line"
     url: /categories/
-  - title: "Tags"
+  - title: "Posts"
     url: /tags/
-  - title: "About"
+  - title: "Contacta-me"
     url: /about/
