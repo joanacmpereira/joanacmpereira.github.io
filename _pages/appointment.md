@@ -13,6 +13,8 @@ As consultas serão feitas pela plataforma "GoogleMeets", sendo o link enviado p
 
 É de notar que no espaço entre consultas, todos os utentes terão acesso a uma via de comunicação direta de forma a que as suas necessidades e dúvidas sejam rapidamente esclarecidas. 
 
+Para consultas em FORMATO URGENTE ou noutras datas não disponiveis poderá utilizar o formulário na secção "contacte-me". 
+
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/joanacristinampereira/45min" style="min-width:320px;height:700px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
