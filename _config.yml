@@ -60,8 +60,9 @@ plugins:
 author:
   name   : "Joana Pereira"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Médica Psiquiatra, investigadora e autora do livro Raciocínio Clínico em Psiquiatria
-  Psychiatrist, researcher and published author"
+  bio    : "Médica Psiquiatra, investigadora e autora do livro Raciocínio Clínico em Psiquiatria"
+  bio    : "Psychiatrist, researcher and published author"
+ 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
