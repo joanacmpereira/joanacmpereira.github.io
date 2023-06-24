@@ -94,17 +94,17 @@ Movimentos oscilantes, de ritmo constante. Geralmente mais evidentes nas extremi
 
     - Tremor de repouso:
       
-            •	Característico dos s. parkinsónicos
+      •	Característico dos s. parkinsónicos
             
-            •	Grosseiro
+      •	Grosseiro
             
-            •	Baixa frequência
+      •	Baixa frequência
             
-            •	O movimento “enrolar mortalha” é extremamente típico
+      •	O movimento “enrolar mortalha” é extremamente típico
             
-            •	Só visível quando o doente está em repouso
+      •	Só visível quando o doente está em repouso
             
-            •	Geralmente interfere pouco com a funcionalidade
+      •	Geralmente interfere pouco com a funcionalidade
 
 
     - Tremor Postural/ação:
@@ -150,22 +150,9 @@ Movimentos oscilantes, de ritmo constante. Geralmente mais evidentes nas extremi
 ## Distonia <a name="distonia"></a>
 Aumento involuntário do tónus muscular que levam a contrações sustentadas no tempo, podendo o doente permanecer em posições distorcidas. 
 
-• Exemplos:
-
-    • Crises oculogiras
+• Exemplos: Crises oculogiras; Rotação e inclinação da cabeça (torcicolo); Opistótono 
     
-    • Rotação e inclinação da cabeça (torcicolo)
-    
-    • Opistótono 
-    
-• Distonias Agudas:
-
-    •São as mais freq na população psiquiátrica
-    
-    •Revertem facilmente com anticolinérgicos ou benzodiazepinas
-    
-    •Ocorre em 10% dos doentes sob AP: ++ em homens jovens, naïves aos AP
-
+• Distonias Agudas: São as mais freq na população psiquiátrica; Revertem facilmente com anticolinérgicos ou benzodiazepinas; Ocorre em 10% dos doentes sob AP: ++ em homens jovens, naïves aos AP
 
 ## Automatismos <a name="automatismos"></a>
 
