@@ -73,11 +73,11 @@ Ausência súbita, involuntária e temporária do tónus muscular.
 ## Bradicinésia <a name="bradicinesia"></a>
 Movimento existente mas lentificado
 
-Exemplos: 
-- Sindrome Parkinsónica
-- P. Depressiva
-- Epilepsia
-- Catatonia
+    Exemplos: 
+        - Sindrome Parkinsónica
+        - P. Depressiva
+        - Epilepsia
+        - Catatonia
 
 ## Alterações do Movimento Qualitativas <a name="qualitativas"></a>
 ## Alterações do Movimento Qualitativas - Voluntários <a name="voluntarios"></a>
