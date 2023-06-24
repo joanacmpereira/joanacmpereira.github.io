@@ -5,7 +5,7 @@ title: "Materiais"
 
 # Table of contents
 1. [Psicopatologia](#psicopatologia)
-    1. [Alterações do Movimenti](#alteraçõesdomovimento)
+    1. [Alterações do Movimento](#alteraçõesdomovimento)
 
 <!---3. [Some paragraph](#paragraph1)
    1. [Sub paragraph](#subparagraph1)
@@ -24,5 +24,9 @@ This is a sub paragraph, formatted in heading 3 style
 The second paragraph text
 -->
 
+## Psicopatologia <a name="psicopatologia"></a>
+Some introduction text, formatted in heading 2 style
 
+### Alterações do Movimento <a name="alteraçõesdomovimento"></a>
+This is a sub paragraph, formatted in heading 3 style
 
