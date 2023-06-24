@@ -52,24 +52,25 @@ The second paragraph text
        9. [Ecopraxia](#ecopraxia)
        10. [Catalepsia](#catalepsia)
        11. [Rigidez em Roda Dentada](#rigidezrodadentada)
+      
+## Alterações do Movimento Quantitativas <a name="quantitativas"></a>
+## Alterações do Movimento Quantitativas - Aumento <a name="aumento"></a>
+### Agitação Psicomotora <a name="agitação"></a>
+Aumento geral da atividade, exacerbação da motricidade, com menor grau de coordenação e não intencional.
+### Acatisia <a name="acatisia"></a>
+Estado desconfortável de inquietação interior subjetiva com intenso desejo/compulsão para o movimento.
+
+- Associada a ideação suicida e agressão a terceiros; cerca de 25% dos doentes a fazer antipsicótico de 1ª geração apresentam acatisia.
 
 
 
 
 
 
-<!---3    1. [Involuntárias](#involuntarias)
-           1. [Tremores](#tremores)
-           2. [coreiformes](#coreiformes)
-           3. [Atetoides](#atetoides)
-           4. [Distonia](#distonia)
-           5. [Automatismos](#automatismos)
-           6. [Tiques](#tiques)
-           7. [Preserveração](#preserveração)
-           8. [Fixação de Posturas](#fixaçãoposturas)
-           9. [Ecopraxia](#ecopraxia)
-           10.[Catalepsia](#catalepsia)
-           11. [Rigidez em Roda Dentada](#rigidezrodadentada)
-    
+
+
+
+
+
 
 
