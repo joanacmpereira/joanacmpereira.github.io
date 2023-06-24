@@ -147,16 +147,130 @@ Movimentos oscilantes, de ritmo constante. Geralmente mais evidentes nas extremi
 
 •	Ex: reptações da língua
 
-
-
 ## Distonia <a name="distonia"></a>
+Aumento involuntário do tónus muscular que levam a contrações sustentadas no tempo, podendo o doente permanecer em posições distorcidas. 
+
+• Exemplos:
+
+    • Crises oculogiras
+    
+    • Rotação e inclinação da cabeça (torcicolo)
+    
+    • Opistótono 
+    
+• Distonias Agudas:
+
+    •São as mais freq na população psiquiátrica
+    
+    •Revertem facilmente com anticolinérgicos ou benzodiazepinas
+    
+    •Ocorre em 10% dos doentes sob AP: ++ em homens jovens, naïves aos AP
+
+
 ## Automatismos <a name="automatismos"></a>
+
+•	Movimentos involuntários
+
+•	Sem finalidade
+
+•	Podem ser simples ou complexos
+
+•	Podem parecer bizarros
+
+•	Doente com consciência alterada: não responde a estímulos, apresenta-se confuso
+
+•	Geralmente o doente não se recorda dos mesmos
+
+•	Exemplos de automatismos simples: Lamber; estalar os dedos; mastigar
+
+•	Exemplos de automatismos complexos: Andar de um lado para o outro; puxar roupa ou botões
+
+•	Os automatismos são muito sugestivos de convulsões parciais complexas – especialmente se os movimentos forem complexos!!!
+
+•	Os automatismos simples podem ocorrer na catatonia 
+
 ## Tiques <a name="tiques"></a>
+
+•	Movimentos espontâneos
+
+•	Involuntários
+
+•	Pequenos grupos musculares
+
+•	Repetitivos
+
+•	O doente e geralmente incapaz de os evitar – podem ser suprimidos mas com grande esforço e ansiedade
+
+•	Exemplo de tiques: Piscar dos olhos; caretas várias; mov espasmódicos das extremidades
+
+•	Ocorrem em indivíduos saudáveis (++ crianças), sendo tbm comuns:
+
+        1.	POC
+        
+        2.	Gilles de la Tourette
+        
+        3.	Consumo de estimulantes
+
 ## Preserveração <a name="preserveração"></a>
+
+•	Incapacidade ou dificuldade em mudar de uma tarefa para outra 
+
+•	++ comumente na linguagem mas pode ocorrer no comportamento/movimento
+
+•	O doente executa repetidamente uma acção que já serviu o seu propósito 
+
+•	Reflete disfunção do córtex pré-frontal:
+
+        1.	S. Demênciais
+        
+        2.	Tumores
+        
+        3.	AVC
+        
+        4.	Esquizofrenia
+        
+•	NOTA: NÃO se verifica alteração do estado de consciência
+
+
 ## Fixação de Posturas <a name="fixaçãoposturas"></a>
+
+•	Adoção de uma posição de não repouso de forma mantida no tempo e sem objetivo
+
+•	Exemplo: 
+
+        1.	Convulsões parciais complexas
+           
+        2.	Catatonia
+
+
 ## Ecopraxia <a name="ecopraxia"></a>
+
+•	Imitação involuntária dos movimentos de outra pessoa![image]
+
 ## Catalepsia <a name="catalepsia"></a>
+
+•	Também denominada flexibilidade cérea
+
+•   Manutenção de uma posição em que outra pessoa o colocou
+
+•	Como se tratassem de bonecos de cera
+
+•	Ocorre na catatonia, por exemplo
+
+•	DIFERENTE DA CATAPLEXIA: na cataplexia há um relaxamento muscular involuntário por perda do tónus 
+
+
 ## Rigidez em Roda Dentada <a name="rigidezrodadentada"></a>
+
+•	Resistência involuntária aos movimentos passivos de flexão e extensão e pronação e supinação
+
+•	Ressalto: contração e relaxamento muscular alternados
+
+•	Frequentemente acompanha bradicinésia
+
+•	Ocorre no S. parkinsónico 
+
+
 
 
 
