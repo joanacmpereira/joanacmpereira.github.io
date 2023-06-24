@@ -61,6 +61,25 @@ Aumento geral da atividade, exacerbação da motricidade, com menor grau de coor
 Estado desconfortável de inquietação interior subjetiva com intenso desejo/compulsão para o movimento.
 
 - Associada a ideação suicida e agressão a terceiros; cerca de 25% dos doentes a fazer antipsicótico de 1ª geração apresentam acatisia.
+  
+## Alterações do Movimento Quantitativas - Diminuição <a name="diminuição"></a>
+## Parésia <a name="paresia"></a>
+Ausência de movimento localizado a uma parte do corpo.
+## Cataplexia <a name="cataplexia"></a>
+Ausência súbita, involuntária e temporária do tónus muscular.
+## Acinésia e Hipocinésia <a name="acinesiahipocinesia"></a>
+- Acinésia: Ausência de movimento apesar de tónus muscular mantido
+- Hipocinésia: Movimento menos intenso apesar de tónus muscular mantido
+## Bradicinésia <a name="bradicinesia"></a>
+Movimento existente mas lentificado
+
+Exemplos: 
+- Sindrome Parkinsónica
+- P. Depressiva
+- Epilepsia
+- Catatonia
+
+
 
 
 
