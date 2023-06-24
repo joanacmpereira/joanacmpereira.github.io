@@ -74,9 +74,13 @@ Ausência súbita, involuntária e temporária do tónus muscular.
 Movimento existente mas lentificado
 
     Exemplos: 
+    
         - Sindrome Parkinsónica
+        
         - P. Depressiva
+        
         - Epilepsia
+        
         - Catatonia
 
 ## Alterações do Movimento Qualitativas <a name="qualitativas"></a>
