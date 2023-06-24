@@ -30,7 +30,8 @@ The second paragraph text
 ### Alterações do Movimento <a name="alteraçõesdomovimento"></a>
 1. [Alterações do Movimento Quantitativas](#quantitativas)
     1. [Aumento](#aumento)
-    2. [Diminuição](#diminuição)
+       1. [Agitação Psicomotora](#agitação)
+    3. [Diminuição](#diminuição)
 
 
 
