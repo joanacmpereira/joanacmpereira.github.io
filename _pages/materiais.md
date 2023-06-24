@@ -79,6 +79,84 @@ Exemplos:
 - Epilepsia
 - Catatonia
 
+## Alterações do Movimento Qualitativas <a name="qualitativas"></a>
+## Alterações do Movimento Qualitativas - Voluntários <a name="voluntarios"></a>
+## Maneirismos <a name="maneirismos"></a>
+Movimentos voluntarios e conscientes, com finalidade; Variações na execução de movimentos dirigidos
+
+- Ex: dar uma pirueta antes de se sentar
+
+## Alterações do Movimento Qualitativas - Involuntários <a name="involuntarios"></a>
+## Tremores <a name="tremores"></a>
+Movimentos oscilantes, de ritmo constante. Geralmente mais evidentes nas extremidades.
+
+- 3 tipos: repouso; postural/ação e intencional
+
+    - Tremor de repouso:
+      
+            •	Característico dos s. parkinsónicos
+            
+            •	Grosseiro
+            
+            •	Baixa frequência
+            
+            •	O movimento “enrolar mortalha” é extremamente típico
+            
+            •	Só visível quando o doente está em repouso
+            
+            •	Geralmente interfere pouco com a funcionalidade
+
+
+    - Tremor Postural/ação:
+      
+            •	Ausente quando o doente está em repouso
+      
+            •	Surgem quando o corpo se mantém atvamente numa posição
+      
+            •	Exemplos: tremor essencial; toxicidade por lítio/AD/estimulantes
+
+    - Tremor intencional:
+      
+            •	Ocorrem quando há afeção do cerebelo ou do tronco encefálico:
+
+                      • Esclerose múltipla
+                      • Encefalopatia de Wernicke
+                      • Avc/tumores do cerebelo
+
+
+## Movimentos Coreiformes <a name="coreiformes"></a>
+
+• Involuntários
+
+• Repetitivos
+
+• Breves
+
+• Irregulares
+
+• Começam numa parte do corpo e passam para outra – de modo abrupto, imprevisível e, de forma geral, continuo
+
+• + rudes e + sacudidos que os atetoides 
+
+
+## Movimentos Atetóides <a name="atetoides"></a>
+
+•	Ondulaçoes
+
+•	Lentos e tortuosos
+
+•	Ex: reptações da língua
+
+
+
+## Distonia <a name="distonia"></a>
+## Automatismos <a name="automatismos"></a>
+## Tiques <a name="tiques"></a>
+## Preserveração <a name="preserveração"></a>
+## Fixação de Posturas <a name="fixaçãoposturas"></a>
+## Ecopraxia <a name="ecopraxia"></a>
+## Catalepsia <a name="catalepsia"></a>
+## Rigidez em Roda Dentada <a name="rigidezrodadentada"></a>
 
 
 
