@@ -113,15 +113,15 @@ Movimentos oscilantes, de ritmo constante. Geralmente mais evidentes nas extremi
 
     - Tremor Postural/ação:
       
-            •	Ausente quando o doente está em repouso
+      •	Ausente quando o doente está em repouso
       
-            •	Surgem quando o corpo se mantém atvamente numa posição
+      •	Surgem quando o corpo se mantém atvamente numa posição
       
-            •	Exemplos: tremor essencial; toxicidade por lítio/AD/estimulantes
+      •	Exemplos: tremor essencial; toxicidade por lítio/AD/estimulantes
 
     - Tremor intencional:
       
-            •	Ocorrem quando há afeção do cerebelo ou do tronco encefálico:
+       •	Ocorrem quando há afeção do cerebelo ou do tronco encefálico:
 
                       • Esclerose múltipla
                       • Encefalopatia de Wernicke
