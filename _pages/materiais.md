@@ -28,7 +28,6 @@ The second paragraph text
 
 
 ### Alterações do Movimento <a name="alteraçõesdomovimento"></a>
-# Table of contents
 1. [Alterações do Movimento Quantitativas](#quantitativas)
     1. [Aumento](#aumento)
     2. [Diminuição](#diminuição)
