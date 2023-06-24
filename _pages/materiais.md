@@ -38,6 +38,13 @@ The second paragraph text
        3. [Acinesia e Hipocinesia](#acinesiahipocinesia)
        4. [Bradicinésia](#bradicinesia)
 2. [Alterações do Movimento Qualitativas](#qualitativas)
+    1. [Voluntários](#voluntarios)
+       1. [Maneirismos](#maneirismos)
+    3. [Involuntários](#involuntarios)
+       1. [Tremores](#tremores)
+       2. [Movimentos Coreiformes](#coreiformes)
+       3. [Movimentos Atetóides](#atetoides)
+       4. [Distonia](#distonia)
 
 
 
