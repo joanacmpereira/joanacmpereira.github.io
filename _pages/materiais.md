@@ -31,8 +31,25 @@ The second paragraph text
 1. [Alterações do Movimento Quantitativas](#quantitativas)
     1. [Aumento](#aumento)
        1. [Agitação Psicomotora](#agitação)
+       2. [Acatisia](#acatisia)
     3. [Diminuição](#diminuição)
-
-
+       1. [Paresia](#paresia)
+       2. [Cataplexia](#cataplexia)
+       3. [Acinesia e Hipocinesia](#acinesiahipocinesia)
+       4. [Bradicinésia](#bradicinesia)
+2. [Alterações do Movimento Qualitativas](#qualitativas)
+     1. [Involuntárias](#involuntarias)
+       1. [Tremores](#tremores)
+       2. [coreiformes](#coreiformes)
+       3. [Atetoides](#atetoides)
+       4. [Distonia](#distonia)
+       5. [Automatismos](#automatismos)
+       6. [Tiques](#tiques)
+       7. [Preserveração](#preserveração)
+       8. [Fixação de Posturas](#fixaçãoposturas)
+       9. [Ecopraxia](#ecopraxia)
+       10.[Catalepsia](#catalepsia)
+       11. [Rigidez em Roda Dentada](#rigidezrodadentada)
+    
 
 
