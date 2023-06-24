@@ -45,6 +45,13 @@ The second paragraph text
        2. [Movimentos Coreiformes](#coreiformes)
        3. [Movimentos Atetóides](#atetoides)
        4. [Distonia](#distonia)
+       5. [Automatismos](#automatismos)
+       6. [Tiques](#tiques)
+       7. [Preserveração](#preserveração)
+       8. [Fixação de Posturas](#fixaçãoposturas)
+       9. [Ecopraxia](#ecopraxia)
+       10. [Catalepsia](#catalepsia)
+       11. [Rigidez em Roda Dentada](#rigidezrodadentada)
 
 
 
