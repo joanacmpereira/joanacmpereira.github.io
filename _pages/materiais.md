@@ -303,7 +303,28 @@ Exemplo: ver a cor da música
 
   ![Sinetesia!](/assets/images/sinestesia1.jpeg "Sinestesia")
 
+## Anomalias da Percepção <a name="anomaliaspercepçao"></a>
 
+## Distorções Sensoriais <a name="distorçoessensoriais"></a>
+
+Nas distorções sensoriais o objecto real é percebido, reconhecido e identificado. No entanto há um desvio da sua aparência normal, ou seja, o objecto é percebido de forma distorcida.
+
+Apesar de poderem ocorrer em indivíduos saudáveis, quanto mais frequentes e intensos estes fenómenos, maior a probabilidade de o indivíduo apresentar uma patologia do foro neurológico. 
+
+É de notar que as distorções sensoriais podem ocorrer em qualquer umas das modalidades sensoriais.
+
+**Distorções Sensoriais Visuais**
+
+ - **Dismegalopsia**:
+   
+    Alteração na percepção do tamanho do objecto ou até mesmo partes do corpo humano. Há quem use o termo para           descrever o fenómeno da mudança de tamanho do objeto conforme o lado em que o mesmo é percepcionado (Sims).
+ 
+    Por um lado, o objecto pode ser percebido com uma dimensão superior à real (**Macropsia ou Megalopsia**), como por exemplo a visualização de uma mão como sendo gigante. Por outro lado, o objecto pode ser percebido com uma dimensão inferior à real (**Micropsia**), como por exemplo uma casa parecer pequenina como se fosse de brincar.
+ 
+    Na **hemimicropsia** há redução aparente num único campo visual.
+ 
+    A dismegalopsia é comum na epilepsia do lobo temporal, podendo também ocorrer em outras doenças orgânicas como patologia da retina, alterações na acomodação ou convergência.
+ 
 
 
 
