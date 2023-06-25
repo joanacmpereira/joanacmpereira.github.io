@@ -289,6 +289,8 @@ O processo de percepção inicia-se com o estímulo dos órgãos dos sentidos:
 
    ![Percepcao Vs Representação!](/assets/images/percepcaorepresentacao.png "percepcao Vs Representacao")
 
+  
+
 
 
 
