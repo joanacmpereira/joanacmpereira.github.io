@@ -3,7 +3,7 @@ permalink: /
 title: "PsiWeb"
 ---
 
-  ![Homepage!](/assets/images/Homepage.jpeg "Homepage")
+  ![Homepage!](/assets/images/Homepage.png "Homepage")
 
 
 
