@@ -3,7 +3,7 @@ permalink: /
 title: "Sobre Mim"
 ---
 
-  ![Homepage!](/assets/images/homepage.pdf "Homepage")
+  ![Homepage!](/assets/images/home.png "Homepage")
 
 
 
