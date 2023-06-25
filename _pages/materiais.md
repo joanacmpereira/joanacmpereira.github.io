@@ -6,6 +6,7 @@ title: "Materiais"
 # Table of contents
 1. [Psicopatologia](#psicopatologia)
     1. [Alterações do Movimento](#alteraçõesdomovimento)
+    2. [Alterações da Percepção](#percepçao)
 
 <!---3. [Some paragraph](#paragraph1)
    1. [Sub paragraph](#subparagraph1)
@@ -260,6 +261,36 @@ Aumento involuntário do tónus muscular que levam a contrações sustentadas no
 •	Frequentemente acompanha bradicinésia
 
 •	Ocorre no S. parkinsónico 
+
+## Alterações da Percepção <a name="percepçao"></a>
+
+1. [Percepção e Representação Mental](#percepçaoerepresentaçaomental)
+2. [Sinestesia](#sinestesia)
+3. [Anomalias da Percepção](#anomaliaspercepçao)
+    1. [Distorções Sensoriais](#distorçoessensoriais)
+    2. [Falsas Percepções](#)
+        1. [Ilusões](#ilusoes)
+        2. [Alucinações](#alucinaçoes)
+
+## Percepção e Representação Mental <a name="percepçaoerepresentaçaomental"></a>
+
+**O que é a percepção?**
+
+A percepção do mundo que nos rodeia envolve uma cascata de processos que nos permite não só experienciá-lo como reagir aos estímulos que nos são enviados. 
+
+O processo de percepção inicia-se com o estímulo dos órgãos dos sentidos: 
+
+ - O órgão dos sentidos captar essa informação, e a este passo damos o nome de **sensação**.
+ - A informação captada pelos orgãos dos sentidos é depois transformada num sinal elétrico, num processo denominado **transdução de sinal**.
+ - Os sinais eléctricos são enviados ao córtex cerebral.
+ - No córtex cerebral, o sinal sensorial é correlacionado com a informação pré-existente resultando na percepção com significado do estímulo.
+
+   Nota: Dado que o número de estímulos provenientes, são em muitos casos, incontáveis, é natural que o nosso organismo atenda a um de cada vez, sendo esse denominado “estímulo atendido”.
+
+   ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
+
+
 
 
 
