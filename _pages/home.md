@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sobre Mim"
+title: "Home"
 ---
 
   ![joanapereira!](/assets/images/joanapereira.png "joanapereira")
