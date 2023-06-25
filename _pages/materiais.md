@@ -301,7 +301,7 @@ Esta ocorre quando a percepção de um estímulo numa modalidade sensorial é pe
 
 Exemplo: ver a cor da música
 
-
+  ![Sinetesia!](/assets/images/sinestesia1.jpeg "Sinestesia")
 
 
 
