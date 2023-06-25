@@ -293,7 +293,14 @@ Ao contrário da percepção que provém da realidade concreta e é independente
 
    ![Percepcao Vs Representação!](/assets/images/percepcaorepresentacao.png "percepcao Vs Representacao")
 
-  
+## Sinestesia <a name="sinestesia"></a>
+
+A sinestesia é uma condição rara que não é considerada um processo anormal ou patológico, sendo bastante comum em intoxicações por drogas, especialmente no LSD.
+
+Esta ocorre quando a percepção de um estímulo numa modalidade sensorial é percepcionada simultaneamente noutra modalidade sensorial 
+
+Exemplo: ver a cor da música
+
 
 
 
