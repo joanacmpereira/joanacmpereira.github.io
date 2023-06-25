@@ -287,6 +287,10 @@ O processo de percepção inicia-se com o estímulo dos órgãos dos sentidos:
 
    Nota: Dado que o número de estímulos provenientes, são em muitos casos, incontáveis, é natural que o nosso organismo atenda a um de cada vez, sendo esse denominado “estímulo atendido”.
 
+   **O que são as Representações Mentais?**
+
+Ao contrário da percepção que provém da realidade concreta e é independente da vontade do indivíduo. As representações mentais são, como o próprio nome indica, meramente figurativas e com um carácter subjectivo, totalmente dependentes da nossa vontade. Por outro lado, enquanto que a percepção ocorre no espaço objectivo externo e apresenta-se claramente delineada. As representações mentais são localizadas ao espaço subjectivo interno e tomam formas pouco delineadas ou até mesmo incompletas.
+
    ![Percepcao Vs Representação!](/assets/images/percepcaorepresentacao.png "percepcao Vs Representacao")
 
   
