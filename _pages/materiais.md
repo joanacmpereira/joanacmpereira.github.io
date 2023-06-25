@@ -287,7 +287,7 @@ O processo de percepção inicia-se com o estímulo dos órgãos dos sentidos:
 
    Nota: Dado que o número de estímulos provenientes, são em muitos casos, incontáveis, é natural que o nosso organismo atenda a um de cada vez, sendo esse denominado “estímulo atendido”.
 
-   ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+   ![Percepcao Vs Representação!](/assets/images/percepcaorepresentacao.png "percepcao Vs Representacao")
 
 
 
