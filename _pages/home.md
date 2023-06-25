@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "PsiWeb"
+title: "Sobre Mim"
 ---
 
-  ![Homepage!](/assets/images/Homepage.png "Homepage")
+  ![Homepage!](/assets/images/home.png "Homepage")
 
 
 
