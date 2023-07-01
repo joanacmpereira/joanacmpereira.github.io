@@ -1,6 +1,6 @@
 ---
 permalink: /materiais/
-title: "Materiais"
+title: "EasyPsqiui"
 ---
 
 # Table of contents
