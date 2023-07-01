@@ -1,6 +1,6 @@
 ---
-permalink: /materiais/
-title: "EasyPsqiui"
+permalink: /easypsiqui/
+title: "EasyPsiqui"
 ---
 
 # Table of contents
