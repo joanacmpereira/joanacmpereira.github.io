@@ -3,11 +3,7 @@ permalink: /easypsiqui/
 title: "EasyPsiqui"
 ---
 
-  ![joanapereira!](/assets/images/joanapereira.png "joanapereira")
-
-
-
-
+  ![EasyPsiqui!](/assets/images/EasyPsiqui.jpg "EasyPsiqui")
 
 # Table of contents
 1. [Psicopatologia](#psicopatologia)
