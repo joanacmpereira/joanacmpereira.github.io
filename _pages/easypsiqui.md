@@ -3,6 +3,12 @@ permalink: /easypsiqui/
 title: "EasyPsiqui"
 ---
 
+  ![joanapereira!](/assets/images/joanapereira.png "joanapereira")
+
+
+
+
+
 # Table of contents
 1. [Psicopatologia](#psicopatologia)
     1. [Alterações do Movimento](#alteraçõesdomovimento)
