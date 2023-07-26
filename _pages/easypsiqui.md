@@ -384,13 +384,13 @@ Apesar de poderem ocorrer em indivíduos saudáveis, quanto mais frequentes e in
     
     Enquanto que na **hiperestesia** há um aumento da intensidade percepcionada do estímulo (por exemplo, uma pequena luz pode ser percebida como um enorme clarão); Na **hipoestesia** há uma diminuição da intensidade percepcionada do estímulo, podendo as cores parecer menos vívidas, os sons parecerem abafados ou estando longe, dependendo da modalidade sensorial afectada.
  
-  A **hiperestesia** pode estar associada:
+    A **hiperestesia** pode estar associada:
 
         1.  Perturbações depressivas e ansiosas
         2.  Intoxicação alcoólica
         3.  Enxaqueca
  
-  A **hipoestesia** pode ocorrer:
+    A **hipoestesia** pode ocorrer:
   
         1.  Perturbação depressiva grave
         2.  Delirium 
