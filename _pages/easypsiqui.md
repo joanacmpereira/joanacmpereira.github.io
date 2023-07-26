@@ -327,19 +327,79 @@ Apesar de poderem ocorrer em indivíduos saudáveis, quanto mais frequentes e in
  
     A dismegalopsia é comum na epilepsia do lobo temporal, podendo também ocorrer em outras doenças orgânicas como patologia da retina, alterações na acomodação ou convergência.
  
+- **Dismorfopsia**:
+
+  Caracteriza-se por uma alteração na percepção da forma do objecto e está normalmente associada a dismegalopsia. Se por um lado, pode haver uma alteração da percepção da forma normal dos objectos (metamorfopsia). Por outro lado, pode haver uma alteração da percepção da forma apenas de rostos (paraprosópia), normalmente apresentando uma flutuação rápida e dinâmica.
+
+  Schrebber, o autor doente que escreveu a famosa obra “memória da minha doença nervosa”, descreve um ótimo exemplo de paraprosópia: “…eu testemunhei repetidamente que (alguns doentes) trocaram de cabeça enquanto estavam na sala comunitária…eles repetidamente corriam com uma cabeça diferente”.
+
+- **Acromatopsia**:
+
+  É a designação que se dá quando o indivíduo não é capaz de ver cores, fenómeno que pode ocorrer nas lesões do lobo occipital. Para além da acromatopsia, podem ocorrer outras alterações na percepção do espectro das cores.
+
+  Vejamos o exemplos das doenças degenerativas cerebrais, em que os objectos e até mesmo as pessoas podem parecer mais escuros; ou na intoxicação por digitálicos que predominam as tonalidades de verde; ou na enxaqueca que as cores podem desvanecer, tomando o campo de percepção uma cor cinzenta.
+
+- **Teleopsia e Pelopsia**:
+
+  Para além das alterações na percepção do tamanho, forma ou cor dos objectos, pode haver uma alteração da percepção da sua localização espacial. O doente pode percepcionar o objecto como estando longínquo quando não o está (**Teleopsia**) ou, pelo contrário, pode percepcionar o objecto a uma distância muito mais curta do que a real (**Pelopsia**)
 
 
+- **Acinetopsia**:
+
+  Alteração da percepção do movimento (Acinetopsia).
+
+  Dou o exemplo de um doente que se questionava a razão dos canos da sua casa não estarem funcionantes, uma vez que quando ligava o chuveiro parecia que água estava congelada e não corria.!
 
 
+**Outras Distorções Sensoriais**
+
+  - **Palinopsia/ Palinacusia/ Palinopatia**:
+
+  Refere-se à recorrência ou duração de um fenómeno visual/auditivo/táctil (respectivamente) além dos limites comuns da ocorrência do evento no mundo real. 
+  
+  Vejamos o exemplo de um doente com palinopsia que observa um pássaro curioso numa árvore e a partir daí começa a ver o mesmo pássaro sempre que passa nessa mesma árvore, mesmo sem o mesmo estar nela.
+
+  - **Exomestesia**:
+
+  Ocorre um deslocamento da sensação para o espaço extrapessoal.
+
+ - **Alestesia**:
+
+   Na alestesia o estímulo sensorial de um lado do corpo é sentido no outro lado.
+           
+   Pode ocorrer: 
+        
+        1.	Lesões vasculares do putamen
+        2.  Patologia com afecção da medula espinhal
+            - Hérnia do disco cervical
+            - Tumores cervicais
+            - Esclerose múltipla
 
 
+ - **Hiperestesia e a Hipoestesia**:
 
+  Alteração na percepção da intensidade do estímulo. 
+  
+  Podem ser o resultado de estados emocionais intensos ou de uma alteração do limiar fisiológico para a sensação. 
+  
+  Enquanto que na **hiperestesia** há um aumento da intensidade percepcionada do estímulo (por exemplo, uma pequena luz pode ser percebida como um enorme clarão); Na **hipoestesia** há uma diminuição da intensidade percepcionada do estímulo, podendo as cores parecer menos vívidas, os sons parecerem abafados ou estando longe, dependendo da modalidade sensorial afectada.
+ 
+  A **hiperestesia** pode estar associada:
 
+        1.  Perturbações depressivas e ansiosas
+        2.  Intoxicação alcoólica
+        3.  Enxaqueca
+ 
+  A **hipoestesia** pode ocorrer:
+  
+        1.  Perturbação depressiva grave
+        2.  Delirium 
+          - No delirium o limiar para as sensações está aumentado, sendo a acuidade sensorial               ainda mais prejudicada pelo défice de atenção característico da patologia
 
+ - **Clivagem da Percepção**:
 
+   Ocorre quando o doente não é capaz de associar mais do que um tipo de percepção vinda do mesmo estímulo.
 
+   Para exemplificar vejamos um caso de um doente com o diagnóstico de esquizofrenia que ao falar com o médico tinha a sensação de que a voz não era a da pessoa que estava à sua frente, tendo a sensação que a imagem e o som provinham de fontes diferentes.
 
-
-
-
-
+   Apesar de ser uma condição rara a mesma pode estar presente na esquizofrenia ou em estados orgânicos.
