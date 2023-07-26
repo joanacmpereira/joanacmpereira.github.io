@@ -2,6 +2,15 @@
 permalink: /
 title: "Sobre mim"
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1MF9Z38ERB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1MF9Z38ERB');
+</script>
 
 Psiquiatra, tendo completado o internato do Psiquiatria no Centro Hospitalar Psiquiátrico de Lisboa. De momento encontra-se a trabalhar no Hospital da Cruz Vermelha, em Lisboa. 
 
