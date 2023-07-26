@@ -355,13 +355,13 @@ Apesar de poderem ocorrer em indivíduos saudáveis, quanto mais frequentes e in
 
   - **Palinopsia/ Palinacusia/ Palinopatia**:
 
-  Refere-se à recorrência ou duração de um fenómeno visual/auditivo/táctil (respectivamente) além dos limites comuns da ocorrência do evento no mundo real. 
+    Refere-se à recorrência ou duração de um fenómeno visual/auditivo/táctil (respectivamente) além dos limites comuns da ocorrência do evento no mundo real. 
   
-  Vejamos o exemplo de um doente com palinopsia que observa um pássaro curioso numa árvore e a partir daí começa a ver o mesmo pássaro sempre que passa nessa mesma árvore, mesmo sem o mesmo estar nela.
+    Vejamos o exemplo de um doente com palinopsia que observa um pássaro curioso numa árvore e a partir daí começa a ver o mesmo pássaro sempre que passa nessa mesma árvore, mesmo sem o mesmo estar nela.
 
   - **Exomestesia**:
 
-  Ocorre um deslocamento da sensação para o espaço extrapessoal.
+    Ocorre um deslocamento da sensação para o espaço extrapessoal.
 
  - **Alestesia**:
 
@@ -369,20 +369,20 @@ Apesar de poderem ocorrer em indivíduos saudáveis, quanto mais frequentes e in
            
    Pode ocorrer: 
         
-        1.	Lesões vasculares do putamen
-        2.  Patologia com afecção da medula espinhal
+        1.Lesões vasculares do putamen
+        2.Patologia com afecção da medula espinhal
             - Hérnia do disco cervical
             - Tumores cervicais
             - Esclerose múltipla
 
 
  - **Hiperestesia e a Hipoestesia**:
-
-  Alteração na percepção da intensidade do estímulo. 
   
-  Podem ser o resultado de estados emocionais intensos ou de uma alteração do limiar fisiológico para a sensação. 
-  
-  Enquanto que na **hiperestesia** há um aumento da intensidade percepcionada do estímulo (por exemplo, uma pequena luz pode ser percebida como um enorme clarão); Na **hipoestesia** há uma diminuição da intensidade percepcionada do estímulo, podendo as cores parecer menos vívidas, os sons parecerem abafados ou estando longe, dependendo da modalidade sensorial afectada.
+    Alteração na percepção da intensidade do estímulo. 
+    
+    Podem ser o resultado de estados emocionais intensos ou de uma alteração do limiar fisiológico para a sensação. 
+    
+    Enquanto que na **hiperestesia** há um aumento da intensidade percepcionada do estímulo (por exemplo, uma pequena luz pode ser percebida como um enorme clarão); Na **hipoestesia** há uma diminuição da intensidade percepcionada do estímulo, podendo as cores parecer menos vívidas, os sons parecerem abafados ou estando longe, dependendo da modalidade sensorial afectada.
  
   A **hiperestesia** pode estar associada:
 
@@ -394,7 +394,9 @@ Apesar de poderem ocorrer em indivíduos saudáveis, quanto mais frequentes e in
   
         1.  Perturbação depressiva grave
         2.  Delirium 
-          - No delirium o limiar para as sensações está aumentado, sendo a acuidade sensorial               ainda mais prejudicada pelo défice de atenção característico da patologia
+          - No delirium o limiar para as sensações está aumentado, 
+            sendo a acuidade sensorial ainda mais prejudicada pelo 
+            défice de atenção característico da patologia
 
  - **Clivagem da Percepção**:
 
