@@ -166,7 +166,7 @@ h2 em { color: #858daa; font-family: var(--serif); font-weight: 400; }
   .hero-note { margin-top: 21px; font-size: 9px; }
   .scroll-cue { bottom: 24px; }
   .profile, .path { display: block; padding: 78px 0; }
-  .profile { padding-right: 24px; padding-left: 24px; }
+  .profile { width: 100%; margin: 0; padding: 78px 24px; }
   .section-heading .eyebrow { margin-bottom: 18px; }
   h2 { font-size: 48px; }
   .profile-copy, .path-content { padding-top: 15px; }
