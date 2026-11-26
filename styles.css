@@ -81,8 +81,8 @@ h2 em { color: #858daa; font-family: var(--serif); font-weight: 400; }
 .arrow-link span { margin-left: 18px; }
 
 .consultations { padding: 0 0 120px; }
-.consult-card { min-height: 520px; overflow: hidden; display: grid; grid-template-columns: .92fr 1.08fr; gap: 10%; position: relative; padding: 70px 8%; color: var(--ink); background: linear-gradient(118deg, #dce8f5 0%, #e6e5f1 51%, #f0dce7 100%); }
-.consult-card > *:not(.gradient-orb) { position: relative; z-index: 1; }
+.consult-card { min-height: 520px; overflow: hidden; display: grid; grid-template-columns: .92fr 1.08fr; gap: 10%; position: relative; padding: 70px 8%; color: var(--ink); }
+.consult-card > * { position: relative; }
 .consult-card .eyebrow { color: #727c93; }
 .consult-card h2 { margin: 0; color: var(--ink); font-size: clamp(42px, 5vw, 60px); }
 .consult-details { align-self: center; max-width: 445px; padding-top: 18px; }
@@ -94,8 +94,6 @@ h2 em { color: #858daa; font-family: var(--serif); font-weight: 400; }
 .button-light:hover { background: #fff; }
 .consult-card .button-light { background: var(--navy); color: #fff; }
 .consult-card .button-light:hover { background: #303c59; }
-.gradient-orb { position: absolute; right: -120px; bottom: -340px; width: 560px; height: 560px; border-radius: 50%; opacity: .8; background: linear-gradient(130deg, rgba(133, 170, 219, .3), rgba(210, 145, 182, .28)); filter: blur(2px); }
-
 .path { padding-top: 35px; padding-bottom: 140px; border-top: 0; }
 .path-content { display: grid; grid-template-columns: 1fr 180px; gap: 34px; align-items: center; }
 .path-content > .lead { max-width: 330px; }
@@ -179,8 +177,7 @@ h2 em { color: #858daa; font-family: var(--serif); font-weight: 400; }
   .consult-details { padding-top: 25px; }
   .consult-details > p { font-size: 12px; }
   .service-list li { font-size: 10px; }
-  .gradient-orb { right: -260px; bottom: -210px; }
-  .path { padding-top: 14px; padding-bottom: 90px; }
+.path { padding-top: 14px; padding-bottom: 90px; }
   .path-content { grid-template-columns: 1fr 120px; gap: 14px; align-items: start; }
   .path-content > .lead { font-size: 14px; }
   .book-card { padding-top: 10px; }
